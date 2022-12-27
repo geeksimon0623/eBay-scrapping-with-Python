@@ -1,2 +1,2 @@
 # Web-scrapper
-In this project , I scrapped content from Ebay and Flipcart websites
+This code is made for scarpping production data from eBay.com
